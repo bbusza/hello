@@ -1,3 +1,3 @@
 # hello
 
-Example C code with a Makefile
+Example C code with a Makefile yes
